@@ -7,9 +7,9 @@ import (
 	"sort"
 	"time"
 
-	"github.com/alpacahq/alpaca-trade-api-go/alpaca"
-	"github.com/alpacahq/alpaca-trade-api-go/common"
 	"github.com/shopspring/decimal"
+	"github.com/turbomaze/alpaca-trade-api-go/alpaca"
+	"github.com/turbomaze/alpaca-trade-api-go/common"
 )
 
 type alpacaClientContainer struct {
